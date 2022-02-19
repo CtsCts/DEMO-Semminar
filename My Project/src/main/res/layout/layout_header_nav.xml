@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:background="@color/teal_700"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:layout_alignParentBottom="true">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/image_avatar"
+        android:layout_width="80dp"
+        android:layout_height="100dp"
+        android:padding="10dp"
+        android:src="@drawable/student_icon"
+
+        />
+    <TextView
+        android:id="@+id/tv_name_avatar"
+        android:padding="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/name_user_avatar"
+        android:textSize="18sp"
+        />
+    <TextView
+        android:id="@+id/tv_name_email_avatar"
+        android:padding="2dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="chauthanhsang@gmail.com"
+        android:textSize="14sp"
+        />
+
+
+
+
+</LinearLayout>

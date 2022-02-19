@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672209749535",
+    "project_id": "fir-seminar-f3130",
+    "storage_bucket": "fir-seminar-f3130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672209749535:android:71460a0f49969769c0772a",
+        "android_client_info": {
+          "package_name": "com.example.demoseminar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672209749535-ju38hfs0j6k7vglvl30f15mdn0t9m0bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQJgQj5tcUfFHmJJyR2G5tyP-6zK0WyP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672209749535-ju38hfs0j6k7vglvl30f15mdn0t9m0bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

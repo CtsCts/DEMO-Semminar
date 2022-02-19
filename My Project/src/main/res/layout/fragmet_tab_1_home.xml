@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:background="@android:color/holo_blue_bright">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Memo from Class"
+    android:gravity="center"
+    android:textColor="@color/black"
+    android:textSize="25sp"
+    android:textStyle="bold"
+    />
+
+    <TableLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="600dp">
+
+        <ScrollView
+            android:id="@+id/scroll_video_call">
+
+
+        </ScrollView>
+
+    </TableLayout>
+</LinearLayout>

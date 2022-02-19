@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item android:id="@+id/nav_home"
+            android:title="@string/nav_home"
+            android:icon="@drawable/home_icon"/>
+
+        <item android:id="@+id/nav_list_class"
+            android:title="@string/nav_list_class"
+            android:icon="@drawable/classroom_icon"/>
+
+        <item android:id="@+id/nav_class_test"
+            android:title="@string/nav_class_test"
+            android:icon="@drawable/group_icon"/>
+
+        <item android:id="@+id/nav_chat"
+            android:title="@string/nav_chat"
+            android:icon="@drawable/message_icon"/>
+
+        <item android:id="@+id/nav_about"
+            android:title="@string/nav_about"
+            android:icon="@drawable/about_icon"/>
+    </group>
+
+    <item
+        android:title="@string/nav_account"
+        >
+        <menu>
+            <item android:id="@+id/nav_my_profile"
+                android:title="@string/nav_my_profile"
+                android:icon="@drawable/student_icon"/>
+
+            <item android:id="@+id/nav_change_password"
+                android:title="@string/nav_change_password"
+                android:icon="@drawable/key_icon"/>
+
+            <item android:id="@+id/nav_sign_out"
+                android:title="@string/logout"
+                android:icon="@drawable/icon_logout"/>
+        </menu>
+
+    </item>
+</menu>

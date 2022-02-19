@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">DEMO Seminar</string>
+
+    <string name="notification_channel_id">default</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_list_class">List Class</string>
+    <string name="nav_class_test">Class Room</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_about">About</string>
+    <string name="nav_my_profile">My Profile</string>
+    <string name="nav_account">Account</string>
+    <string name="nav_change_password">Change Password</string>
+    <string name="tab_1_home">DEMO 1 Seminar</string>
+    <string name="tab_2_home">DEMO 2 Seminar</string>
+    <string name="tab_3_home">DEMO 3 Seminar</string>
+    <string name="nav_setting">Setting</string>
+    <string name="about">Sản phẩm được phát triển bởi Châu Thanh Sang MSSV: 1620206. Seminar cuối kỳ</string>
+
+    <string name="name_user_avatar">chau thanh sang</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="signin">Sign in</string>
+    <string name="signup">Sign up</string>
+    <string name="signup_teacher">Sign up Teacher</string>
+    <string name="resigter">Resigter</string>
+
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="signin_tip">Dont have an account</string>
+
+    <string name="tab_1_class_test">Creat Test Room</string>
+    <string name="tab_2_class_test">Creat Test</string>
+
+
+    <string name="nav_drawer_open">Open Navigation Drawer</string>
+    <string name="nav_drawer_close">Close Navigation Drawer</string>
+
+
+    <string name="enter_user_id">Enter user id</string>
+    <string name="connect">Connect</string>
+    <string name="join_room">Join room</string>
+    <string name="connecting">Connecting</string>
+    <string name="connected_as">Connected as: %1$s</string>
+
+
+</resources>

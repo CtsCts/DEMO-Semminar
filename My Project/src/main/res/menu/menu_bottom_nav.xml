@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <item android:id="@+id/bottom_home"
+            android:title="@string/nav_home"
+            android:icon="@drawable/home_icon"/>
+
+        <item android:id="@+id/bottom_list_class"
+            android:title="@string/nav_list_class"
+            android:icon="@drawable/classroom_icon"/>
+
+        <item android:id="@+id/bottom_class_test"
+            android:title="@string/nav_class_test"
+            android:icon="@drawable/group_icon"/>
+
+        <item android:id="@+id/bottom_chat"
+            android:title="@string/nav_chat"
+            android:icon="@drawable/message_icon"/>
+
+        <item android:id="@+id/bottom_about"
+            android:title="@string/nav_about"
+            android:icon="@drawable/about_icon"/>
+
+</menu>
